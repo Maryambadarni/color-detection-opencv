@@ -1,2 +1,2 @@
 # color-detection-opencv
-This program detects a specified color in real-time.
+This program detects objects with a specified color in real-time.
